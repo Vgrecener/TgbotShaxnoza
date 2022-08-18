@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/slava/tgbot-cpp/samples/echobot/src/main.cpp
+csignal
+-
+cstdio
+-
+cstdlib
+-
+exception
+-
+string
+-
+unistd.h
+/home/slava/tgbot-cpp/samples/echobot/src/unistd.h
+tgbot/tgbot.h
+-
+

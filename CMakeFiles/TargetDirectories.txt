@@ -1,0 +1,3 @@
+/home/slava/tgbot-cpp/samples/echobot/CMakeFiles/edit_cache.dir
+/home/slava/tgbot-cpp/samples/echobot/CMakeFiles/rebuild_cache.dir
+/home/slava/tgbot-cpp/samples/echobot/CMakeFiles/echobot.dir
